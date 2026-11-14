@@ -14,7 +14,9 @@
 /*
 # Color Picker / Eyedropper Tool for Windows 11
 
-A lightweight, system-wide color picker overlay mod for [Windhawk](https://windhawk.net/), inspired by Microsoft PowerToys Color Picker. It allows you to select any pixel on your screen via a customizable global hotkey, view a magnified pixel grid loupe, and automatically obtain the color value in **HEX**, **RGB**, **HSL**, and **CMYK** formats with one-click clipboard copying.
+A lightweight, system-wide color picker overlay mod for [Windhawk](https://windhawk.net/), inspired by [Microsoft PowerToys](https://github.com/microsoft/powertoys) Color Picker. It allows you to select any pixel on your screen via a customizable global hotkey, view a magnified pixel grid loupe, and automatically obtain the color value in **HEX**, **RGB**, **HSL**, and **CMYK** formats with one-click clipboard copying.
+
+![Color Picker mod in action](https://raw.githubusercontent.com/nathanaeru/color-picker-eyedropper/refs/heads/main/demo.gif)
 
 ## Features
 
