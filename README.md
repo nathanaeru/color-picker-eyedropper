@@ -1,6 +1,6 @@
 # Color Picker / Eyedropper Tool for Windows 11
 
-A lightweight, system-wide color picker overlay mod for [Windhawk](https://windhawk.net/), inspired by [Microsoft PowerToys](https://github.com/microsoft/powertoys) Color Picker. It allows you to select any pixel on your screen via a customizable global hotkey, view a magnified pixel grid loupe, and automatically obtain the color value in **HEX**, **RGB**, **HSL**, and **CMYK** formats with one-click clipboard copying.
+A lightweight, system-wide color picker overlay mod for [Windhawk](https://windhawk.net/), inspired by [Microsoft PowerToys](https://github.com/microsoft/powertoys) Color Picker. Activated by the default keyboard shortcut `Win + Alt + C`, it allows you to select any pixel on your screen via a customizable global hotkey, view a magnified pixel grid loupe, and automatically obtain the color value in **HEX**, **RGB**, **HSL**, and **CMYK** formats with one-click clipboard copying.
 
 ![Color Picker mod in action](https://raw.githubusercontent.com/nathanaeru/color-picker-eyedropper/refs/heads/main/demo.gif)
 
@@ -31,7 +31,7 @@ You can customize the mod settings directly from the Windhawk Mod Manager UI:
 
 | Setting | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
-| **Hotkey Key** | String | `C` | Single alphanumeric or symbol character used with `Win + Alt`. |
+| **Hotkey Key** | String | `C` | Single alphabet character used with `Win + Alt` (selectable via a dropdown menu). |
 | **Include '#' Prefix in HEX** | Boolean | `true` | Choose whether HEX values include the `#` symbol (`#CDCDCD` vs `CDCDCD`). |
 | **Uppercase HEX Characters** | Boolean | `true` | Toggle uppercase vs. lowercase HEX characters (`#ABCDEF` vs `#abcdef`). |
 
